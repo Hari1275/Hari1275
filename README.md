@@ -1,3 +1,4 @@
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=25&width=600&height=60&lines=Welcome+to+Hariprasad'K+Github+profile!)](https://git.io/typing-svg)
 <h1 align="center">Hi 👋, I'm Hariprasad k</h1>
 <h3 align="center">I'm a full-stack developer with experience in building web applications using various technologies.</h3>
 <img align="right" alt="coding" width="400" src="https://www.lambdatest.com/resources/images/news24.gif"
